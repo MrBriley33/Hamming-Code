@@ -1,0 +1,7 @@
+﻿  Decode.cpp
+  TypeEncode.cpp
+c:\users\mrbri\source\repos\hamming\hamming\typeencode.cpp(21): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hamming.vcxproj -> C:\Users\mrbri\source\repos\Hamming\Release\Hamming.exe

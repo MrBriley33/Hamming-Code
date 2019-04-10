@@ -1,0 +1,6 @@
+﻿  Decode.cpp
+  DataEncode.cpp
+  TypeEncode.cpp
+c:\users\mrbri\source\repos\hamming\hamming\typeencode.cpp(21): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Hamming.vcxproj -> C:\Users\mrbri\source\repos\Hamming\Debug\Hamming.exe
